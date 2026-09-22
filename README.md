@@ -4,3 +4,4 @@ Founder & Systems Architect building **[bayar.dev](https://bayar.dev)** — high
 - 🌐 **Platform:** [bayar.dev](https://bayar.dev)
 - 📖 **Documentation:** [bayar.dev/docs](https://bayar.dev/docs)
 - 📬 **Contact:** hi@bayar.dev
+- 💻 **GitHub:** [github.com/bayxdev](https://github.com/bayxdev)
